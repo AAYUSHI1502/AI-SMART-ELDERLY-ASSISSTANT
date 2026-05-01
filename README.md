@@ -1,2 +1,2 @@
 # AI-SMART-ELDERLY-ASSISSTANT
-Smart Elderly Companion is an AI-based system that analyzes user interactions like time, wrong taps, and retries to detect confusion in elderly users. It provides personalized assistance through adaptive support, improving smartphone accessibility and user experience.
+AI Smart Helper is an AI-powered assistant interface designed to simplify communication and critical smartphone actions. It provides quick and intuitive access to features like emergency alerts, messaging, and AI-based command execution.
